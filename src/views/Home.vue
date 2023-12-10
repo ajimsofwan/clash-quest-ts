@@ -13,7 +13,7 @@ const jobs = ref<Job[]>([
 </script>
 
 <template>
-  <div>
+  <div class="max-w-screen-lg mx-auto">
     <JobList :jobs="jobs" />
   </div>
 </template>
