@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#0d9488",
-        "primary-light": "#14b8a6",
-        "primary-extra-light": "#5eead4",
-        "primary-dark": "#0f766e",
+        primary: "#f59e0b",
+        "primary-light": "#fcd34d",
+        "primary-extra-light": "#fef3c7",
+        "primary-dark": "#d97706",
       },
       animation: {
         "spin-slow": "spin 1s ease infinite",
